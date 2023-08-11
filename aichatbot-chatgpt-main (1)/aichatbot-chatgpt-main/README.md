@@ -42,6 +42,3 @@ This will start the server on `http://localhost:3000/`, where you can interact w
 
 
 
-### Author
-
-[@uixaadi](https://github.com/uixaadi)
